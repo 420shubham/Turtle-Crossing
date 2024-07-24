@@ -11,4 +11,6 @@ The swapn area can be changed as well as the number of cars that will be swapned
 
 Had fun using the turltle module.
 
+I haven't added the level or score on the screen.
+
 P.S. its a joke...
